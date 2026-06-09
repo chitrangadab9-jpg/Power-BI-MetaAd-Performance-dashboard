@@ -1,6 +1,7 @@
 # Meta Ad Performance Dashboard - Power BI Project
 
 A full-stack Power BI analytics project built on simulated Meta (Facebook & Instagram) advertising data. The dashboard tracks campaign performance across key metrics - impressions, clicks, conversions, engagement, and spend - with dynamic measure switching, platform filtering, and calendar-driven time intelligence.
+![Dashboard](Assets/Dashboard.png)
 
 ---
 
@@ -56,7 +57,7 @@ ad_events (*) ──── (1) ads
 ads (*) ──────────── (1) campaigns
 ad_events (*) ──── (1) Calender Table   [via Event Date]
 ```
-
+![Data Model](Assets/Data_Modeling.png)
 ---
 
 ## DAX — Measures
