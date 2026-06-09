@@ -27,8 +27,8 @@ meta-ad-performance-dashboard/
 │   ├── dashboard_preview.png           # Full dashboard screenshot
 │   └── data_model.png                  # Data model / relationship diagram screenshot
 │
-├── docs/
-│   └── project_overview.md             # Extended write-up: goals, methodology, insights
+├── Business Requirements/
+│   └── KPIS, Charts_needed             # Extended write-up: goals, methodology, insights
 │
 └── README.md
 ```
