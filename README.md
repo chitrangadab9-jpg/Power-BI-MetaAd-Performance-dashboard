@@ -130,16 +130,16 @@ The `Age Title` and `Gender Title` measures use `SWITCH(SELECTEDVALUE(...))` to 
 
 ## Dashboard Features
 
-- **12 KPI cards** — Impressions, Clicks, Comments, Shares, Purchases, Engagements, Engagement Rate, Conversion Rate, CTR, Purchase Rate, Avg Budget, Total Budget
-- **Platform filter** — Toggle between Facebook and Instagram
-- **Target Interest slicer** — Filter all visuals by audience interest category
-- **Month calendar slicer** — Date navigation at the week/day level
-- **Dynamic measure slicer** — Switch the metric driving the age and gender breakdowns
-- **Impressions by Gender** — Donut chart
-- **Impressions / [Dynamic Metric] by Age** — Bar chart
-- **Impressions by Country** — Bing Maps visual
-- **AD_TYPE Matrix** — Conversion rate, engagement rate, and purchase rate by ad type (Carousel, Image, Stories, Video)
-- **Impressions by Week Number and Ad Type** — Stacked bar chart with ad type color legend
+- **12 KPI cards** - Impressions, Clicks, Comments, Shares, Purchases, Engagements, Engagement Rate, Conversion Rate, CTR, Purchase Rate, Avg Budget, Total Budget
+- **Platform filter** - Toggle between Facebook and Instagram
+- **Target Interest slicer** - Filter all visuals by audience interest category
+- **Month calendar slicer** - Date navigation at the week/day level
+- **Dynamic measure slicer** - Switch the metric driving the age and gender breakdowns
+- **Impressions by Gender** - Donut chart
+- **Impressions / [Dynamic Metric] by Age** - Bar chart
+- **Impressions by Country** - Bing Maps visual
+- **AD_TYPE Matrix** - Conversion rate, engagement rate, and purchase rate by ad type (Carousel, Image, Stories, Video)
+- **Impressions by Week Number and Ad Type** - Stacked bar chart with ad type color legend
 
 ---
 
@@ -160,10 +160,10 @@ See [`data/data_dictionary.md`](data/data_dictionary.md) for full column-level d
 
 ## Tools Used
 
-- **Power BI Desktop** — Report development, DAX authoring, data modelling
-- **Microsoft Excel** — Raw data source (4 tables)
-- **DAX** — All measures, calculated columns, Calendar Table, Field Parameter
-- **Bing Maps** — Geographic visual (built-in Power BI)
+- **Power BI Desktop** - Report development, DAX authoring, data modelling
+- **Microsoft Excel** - Raw data source (4 tables)
+- **DAX** - All measures, calculated columns, Calendar Table, Field Parameter
+- **Bing Maps** - Geographic visual (built-in Power BI)
 
 ---
 
